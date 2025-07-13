@@ -1,2 +1,9 @@
-# advanced_queries.sql
-A set of advanced SQL queries using an Employeesdata table to show filtering, joins, aggregation, subqueries, and more. Includes an ER diagram connecting Employeesdata and Departments. Great for learning and portfolio showcase.
+# 📊 Advanced SQL Queries for Practice & Portfolio
+
+This project is a curated set of advanced SQL queries built around an Employeesdata table.  
+It demonstrates filtering, joins, aggregation, subqueries, pattern matching, and conditional logic.
+
+## ✏️ Includes:
+- Example queries covering real‑world scenarios
+- ER diagram showing how Employeesdata links to Departments
+- Clear comments explaining each query
