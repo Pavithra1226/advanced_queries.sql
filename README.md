@@ -10,6 +10,5 @@ It demonstrates filtering, joins, aggregation, subqueries, pattern matching, and
 ## 🧩 ER Diagram
 
 ![ER Diagram](ERD.png)
-
 > Shows how Employeesdata table relates to Departments table.
 
